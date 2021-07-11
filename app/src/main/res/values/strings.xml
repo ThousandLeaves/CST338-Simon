@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Just Like Simon!</string>
+    <string name="easy_game">Easy Game</string>
+    <string name="medium_game">Medium Game</string>
+    <string name="hard_game">Hard Game</string>
+    <string name="scores">High Scores</string>
+    <string name="quit">Quit Game</string>
+    <string name="credit">FA2019 - Christopher Boyd - CST 388</string>
+    <string name="contentLogo">logo</string>
+    <string name="round">Round: 1</string>
+    <string name="letterA">A</string>
+    <string name="letterB">B</string>
+    <string name="letterC">C</string>
+    <string name="letterD">D</string>
+    <string name="scoreInfo">Score: XXXXXX</string>
+    <string name="aboutContinues">Continues: X</string>
+    <string name="hall_of_fame">Hall of Fame</string>
+    <string name="back_to_title">Back to title</string>
+    <string name="highFirst">1. Milton Bradley - 99999</string>
+    <string name="highSecond">2. Simon Belmont - 50000</string>
+    <string name="highThird">3. Donkey Kong - 4000</string>
+    <string name="highFour">4. Bruce Lee - 1000</string>
+</resources>
